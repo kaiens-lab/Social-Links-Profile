@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://kaiens-lab.github.io/Social-Links-Profile/]
+- Live Site URL: [Social-Links-Profile](https://kaiens-lab.github.io/Social-Links-Profile/)
 
 ## My process
 
